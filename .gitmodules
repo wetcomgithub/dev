@@ -1,0 +1,16 @@
+[submodule "odoo_l10n_ar"]
+	path = odoo_l10n_ar
+	url = git@bitbucket.org:blueorangegroup/odoo_l10n_ar.git
+	branch = 12.0
+[submodule "odoo_addons_others"]
+	path = odoo_addons_others
+	url = git@bitbucket.org:blueorangegroup/odoo_addons_others.git
+	branch = 12.0
+[submodule "odoo_addons_extra"]
+	path = odoo_addons_extra
+	url = git@bitbucket.org:blueorangegroup/odoo_addons_extra.git
+	branch = 12.0
+[submodule "odoo_customization_wetcom"]
+	path = odoo_customization_wetcom
+	url = git@bitbucket.org:blueorangegroup/odoo_customization_wetcom.git
+	branch = 12.0
