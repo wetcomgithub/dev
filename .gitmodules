@@ -14,7 +14,3 @@
 	path = odoo_customization_wetcom
 	url = git@bitbucket.org:blueorangegroup/odoo_customization_wetcom.git
 	branch = develop_17.0
-[submodule "odoo_l10n"]
-	path = odoo_l10n
-	url = git@bitbucket.org:blueorangegroup/odoo_l10n.git
-	branch = 17.0
